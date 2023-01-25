@@ -18,11 +18,11 @@ class TicTacToe
 
             if (player % 2 == 0)
             {
-                Console.WriteLine("Player 2 turn");
+                Console.WriteLine("Jogador 2 turn");
             }
             else
             {
-                Console.WriteLine("Player 1 turn");
+                Console.WriteLine("Jogador 1 turn");
             }
             Console.WriteLine("\n");
             Board();
